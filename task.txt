@@ -1,0 +1,7 @@
+sehifeye ilk defe girende iki 
+input ve button olsun
+
+ad ve soyad yazib duymeni basanda 
+"salam ad soyad" cixsin
+
+sehfe refresh olunanda da bu qalsin

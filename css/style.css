@@ -1,0 +1,16 @@
+sup{
+    top:-25px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: red;
+}
+
+#basket-items table{
+    overflow: hidden;
+}
+#basket-items table img{
+    width: 70px;
+}
+#basket-items table td{
+    line-height: 70px;
+}
